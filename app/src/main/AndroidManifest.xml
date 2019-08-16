@@ -24,6 +24,9 @@
         <activity
             android:name=".StoreActivity">
         </activity>
+        <activity android:name=".FavoriteActivity">
+
+        </activity>
     </application>
 
 </manifest>
